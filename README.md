@@ -1,0 +1,2 @@
+# scrip
+to explore something
